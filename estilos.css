@@ -1,0 +1,50 @@
+.rectangulo{
+    height:100px;
+    position:relative;
+    width:1000px ;
+    background-color:cadetblue ;
+ 
+}
+.textorectangulo{
+position: relative;
+top:-100px;
+left: 250px;
+z-index:4px ;
+     
+}
+.container{
+width:10% ;
+margin:0px auto ;    
+height:20px; 
+position: relative;
+left:420px ;
+z-index:250px ;
+
+
+}
+.rectangulo2{
+    width:-100px ;
+    background-color:cadetblue ;
+    height:100px;
+    position:relative;   
+}
+nav ul li {
+    float: left;
+    list-style: none;
+    margin: 10px;
+    color: white;
+    font-size: 20px;
+    line-height: 30px;
+}
+nav ul li {
+    float: left;
+    list-style: none;
+    margin: 10px;
+    color: white;
+    font-size: 20px;
+    line-height: 30px;
+}
+
+
+
+    
